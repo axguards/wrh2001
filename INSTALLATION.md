@@ -52,8 +52,8 @@ Run the script:
 
 Notes
 
-    To use the browser automation, ensure Geckodriver is installed and in your PATH.
-    If running on a virtual machine, allocate at least 2GB of RAM for browser automation tasks.
+  To use the browser automation, ensure Geckodriver is installed and in your PATH.
+  If running on a virtual machine, allocate at least 2GB of RAM for browser automation tasks.
     
      sudo apt install firefox-geckodriver
 
