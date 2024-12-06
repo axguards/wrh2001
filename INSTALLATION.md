@@ -40,11 +40,11 @@ git clone https://github.com/your-username/wrh-repository.git
 
 Navigate to the project directory:
 
-cd wrh-repository
+         cd wrh-repository
 
 Make the script executable:
 
-chmod +x wrh_script.sh
+       chmod +x wrh_script.sh
 
 Run the script:
 
@@ -54,3 +54,7 @@ Notes
 
     To use the browser automation, ensure Geckodriver is installed and in your PATH.
     If running on a virtual machine, allocate at least 2GB of RAM for browser automation tasks.
+    
+     sudo apt install firefox-geckodriver
+
+    
