@@ -34,9 +34,9 @@ Follow these steps to install and run the WRH Repository script:
 
 Installation Steps
 
-    Clone this repository:
+    Clone this repository:https://github.com/axguards/wrh2001.git
 
-git clone https://github.com/your-username/wrh-repository.git](https://github.com/axguards/wrh2001/newSH/main)
+
 
 Navigate to the project directory:
 
